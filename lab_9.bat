@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0c7217cdde317cfec --count 1 --instance-type t2.micro --key-name itstep --security-group-ids sg-017923b0552fab076 --subnet-id subnet-08ad6fc2fa9a2c60b --user-data file://Oda_6.sh
