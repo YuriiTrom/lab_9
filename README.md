@@ -36,5 +36,4 @@ docker -H localhost:5566 images
 docker -H localhost:5566 ps
 
 Наприклад —> "http://52.90.232.54"
-"# lab_9" 
-"# lab_9" 
+
